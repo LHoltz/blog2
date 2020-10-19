@@ -1,10 +1,10 @@
 # basic options
 title: Holtz Data
-author: GitHub User
-email: your-email@domain.com
+author: L. Holtz
+email: ljholtz10@gmail.com
 description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: @LjHo1tz
+github_username:  LHoltz
 
 # Build settings
 markdown: kramdown
