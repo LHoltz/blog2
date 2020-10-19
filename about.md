@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+Here is a compilation of projects I have completed either on my own or through coursework.
+Can't wait for you to check it out!
 
 Reasons:
 - its great.
-- its a test.
+- its a test.. until it isn't
 
 ## Other thoughts
 
-This is great.
+I also can't wait to make the most of this site
